@@ -42,4 +42,7 @@ buildScan {
     //it automagically accepts agreement
     termsOfServiceUrl = "https://gradle.com/terms-of-service"
     termsOfServiceAgree = "yes"
+
+    //it automagically add '--scan' to all gradle tasks
+    publishAlways()
 }
