@@ -1,0 +1,1 @@
+D:\Projects\gradle\building-kotlin-jvm-libraries\build\classes\kotlin\main\com\genix\Language.class;D:\Projects\gradle\building-kotlin-jvm-libraries\build\classes\kotlin\main\com\genix\MyLibrary.class
