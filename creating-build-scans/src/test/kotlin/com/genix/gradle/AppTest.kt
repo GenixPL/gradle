@@ -5,10 +5,17 @@ package com.genix.gradle
 
 import kotlin.test.Test
 import kotlin.test.assertNotNull
+import kotlin.test.assertNull
 
 class AppTest {
     @Test fun testAppHasAGreeting() {
         val classUnderTest = App()
         assertNotNull(classUnderTest.greeting, "app should have a greeting")
+    }
+
+    @Test fun testFailingTest() {
+        
+        val classUnderTest = App()
+        assertNull(classUnderTest.greeting, "app should have a greeting")
     }
 }
