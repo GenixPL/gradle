@@ -1,1 +1,1 @@
-gradle
+Lessons from: https://gradle.org/guides/?q=
