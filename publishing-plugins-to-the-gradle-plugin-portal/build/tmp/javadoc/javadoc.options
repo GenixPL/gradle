@@ -1,0 +1,7 @@
+-classpath 'D:\\Projects\\gradle\\publishing-plugins-to-the-gradle-plugin-portal\\build\\classes\\java\\main;D:\\Projects\\gradle\\publishing-plugins-to-the-gradle-plugin-portal\\build\\resources\\main;C:\\Users\\genix\\.gradle\\caches\\5.2.1\\generated-gradle-jars\\gradle-api-5.2.1.jar;C:\\Program Files\\Gradle\\gradle-5.2.1\\lib\\groovy-all-1.0-2.5.4.jar;C:\\Program Files\\Gradle\\gradle-5.2.1\\lib\\gradle-installation-beacon-5.2.1.jar'
+-d 'D:\\Projects\\gradle\\publishing-plugins-to-the-gradle-plugin-portal\\build\\docs\\javadoc'
+-doctitle 'publishing-plugins-to-the-gradle-plugin-portal 0.1 API'
+-quiet 
+-windowtitle 'publishing-plugins-to-the-gradle-plugin-portal 0.1 API'
+'D:\\Projects\\gradle\\publishing-plugins-to-the-gradle-plugin-portal\\src\\main\\java\\com\\genix\\Greeting.java'
+'D:\\Projects\\gradle\\publishing-plugins-to-the-gradle-plugin-portal\\src\\main\\java\\com\\genix\\GreetingPlugin.java'
